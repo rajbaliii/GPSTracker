@@ -7,7 +7,10 @@
 
 > A production-ready, enterprise-grade GPS tracking application with real-time location monitoring, route recording, and advanced analytics.
 
-![GPS Tracker Demo](assets/demo-screenshot.png)
+<img width="870" height="608" alt="Screenshot 2026-01-17 011749" src="https://github.com/user-attachments/assets/1da87a0c-0746-40ed-9f9f-7d9289548928" />
+<img width="857" height="298" alt="image" src="https://github.com/user-attachments/assets/0a155511-8ff8-41bd-bb45-4de01082985c" />
+
+
 
 ## 🌟 Features
 
@@ -128,60 +131,7 @@ const exportData = () => {
 };
 ```
 
-## 🏗️ Project Structure
 
-```
-GPSTracker/
-├── public/
-│   └── assets/
-│       ├── icons/
-│       └── images/
-├── src/
-│   ├── components/
-│   │   ├── Dashboard.jsx
-│   │   ├── MapView.jsx
-│   │   ├── ControlPanel.jsx
-│   │   └── StatsCard.jsx
-│   ├── hooks/
-│   │   ├── useGeoLocation.js
-│   │   └── useTracking.js
-│   ├── utils/
-│   │   ├── calculations.js
-│   │   └── formatters.js
-│   ├── App.jsx
-│   └── main.jsx
-├── docs/
-│   ├── API.md
-│   ├── ARCHITECTURE.md
-│   └── CONTRIBUTING.md
-├── .github/
-│   ├── workflows/
-│   │   └── ci.yml
-│   └── ISSUE_TEMPLATE/
-├── tests/
-│   └── unit/
-├── .env.example
-├── .gitignore
-├── package.json
-├── README.md
-├── LICENSE
-└── CHANGELOG.md
-```
-
-## 🧪 Testing
-
-```bash
-# Run unit tests
-npm test
-
-# Run tests with coverage
-npm run test:coverage
-
-# Run E2E tests
-npm run test:e2e
-```
-
-## 📈 Performance
 
 - **Initial Load**: < 2s
 - **GPS Accuracy**: ±5-10 meters (high accuracy mode)
@@ -235,8 +185,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **Raj Bali**
 - GitHub: [@therajbali](https://github.com/therajbali)
-- LinkedIn: [Your LinkedIn Profile](https://linkedin.com/in/yourprofile)
-- Portfolio: [Your Portfolio](https://yourportfolio.com)
+- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/therajbali/)
 
 ## 🙏 Acknowledgments
 
@@ -247,9 +196,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Support
 
-- 📫 Email: your.email@example.com
+- 📫 Email: rajbaliofficial@gmail.com
 - 💬 Issues: [GitHub Issues](https://github.com/therajbali/GPSTracker/issues)
-- 📖 Documentation: [Full Documentation](docs/)
 
 ## ⭐ Show Your Support
 
@@ -258,5 +206,5 @@ Give a ⭐️ if this project helped you!
 ---
 
 <div align="center">
-  Made with ❤️ by Raj Bali
+  Made with ❤️ by Rajbali
 </div>
