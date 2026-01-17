@@ -177,8 +177,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👨‍💻 Author
 
-**Raj Bali**
-- GitHub: [@therajbali](https://github.com/therajbali)
+**Rajbali**
+- GitHub: [@therajbali](https://github.com/rajbaliii)
 - LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/therajbali/)
 
 ## 🙏 Acknowledgments
@@ -191,7 +191,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 📞 Support
 
 - 📫 Email: rajbaliofficial@gmail.com
-- 💬 Issues: [GitHub Issues](https://github.com/therajbali/GPSTracker/issues)
+- 💬 Issues: [GitHub Issues](https://github.com/rajbaliii/GPSTracker/issues)
 
 ## ⭐ Show Your Support
 
