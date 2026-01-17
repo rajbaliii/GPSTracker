@@ -7,10 +7,6 @@
 
 > A production-ready, enterprise-grade GPS tracking application with real-time location monitoring, route recording, and advanced analytics.
 
-<img width="870" height="608" alt="Screenshot 2026-01-17 011749" src="https://github.com/user-attachments/assets/1da87a0c-0746-40ed-9f9f-7d9289548928" />
-<img width="857" height="298" alt="image" src="https://github.com/user-attachments/assets/0a155511-8ff8-41bd-bb45-4de01082985c" />
-
-
 
 ## 🌟 Features
 
@@ -39,10 +35,8 @@
 ## 📸 Screenshots
 
 <div align="center">
-[![React](https://img.shields.io/badge/React-18.0+-blue.svg)](https://reactjs.org/)
-[![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
-[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/therajbali/GPSTracker/graphs/commit-activity)
+<img width="870" height="608" alt="Screenshot 2026-01-17 011749" src="https://github.com/user-attachments/assets/1da87a0c-0746-40ed-9f9f-7d9289548928" />
+<img width="857" height="298" alt="image" src="https://github.com/user-attachments/assets/0a155511-8ff8-41bd-bb45-4de01082985c" />
 </div>
 
 ## 🛠️ Technology Stack
