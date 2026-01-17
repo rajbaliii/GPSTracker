@@ -34,15 +34,15 @@
 - ⚡ **Performance Optimized** - Efficient state management and rendering
 - 🔔 **Error Handling** - User-friendly error messages and graceful degradation
 
-## 🚀 Live Demo
 
-[**View Live Demo**](https://your-demo-url.com) | [**API Documentation**](docs/API.md)
 
 ## 📸 Screenshots
 
 <div align="center">
-  <img src="assets/dashboard.png" alt="Dashboard View" width="45%">
-  <img src="assets/tracking.png" alt="Active Tracking" width="45%">
+[![React](https://img.shields.io/badge/React-18.0+-blue.svg)](https://reactjs.org/)
+[![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/therajbali/GPSTracker/graphs/commit-activity)
 </div>
 
 ## 🛠️ Technology Stack
