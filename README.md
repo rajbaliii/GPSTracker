@@ -1,4 +1,4 @@
-# 🗺️ Professional GPS Tracking System
+# 🗺️ GPS Tracking System
 
 [![React](https://img.shields.io/badge/React-18.0+-blue.svg)](https://reactjs.org/)
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
